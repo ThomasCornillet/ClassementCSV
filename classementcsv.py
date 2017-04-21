@@ -3,7 +3,8 @@
 
 """
 
-Ça fonctionne, mais pour il y a un problème : vu que le csv est créé avant le parcours du dossier, le fichier csv est pris en compte dans l'énumération
+Ça fonctionne.
+À voir si j'ajoute un '.' à l'extension
 
 """
 
