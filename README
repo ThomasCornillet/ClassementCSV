@@ -1,0 +1,13 @@
+ClassementCSV
+=============
+
+classementcsv.py est un projet de script dont le but est de parcourir des dossiers, en extraire les noms des fichiers et sous-dossiers, et en faire un fichier csv regroupant tout le contenu du dossier cible
+
+Dans l'idéal, les noms des fichiers sont déjà formaté selon les informations que l'on souhaite en retirer.
+
+Ordre des tâches
+----------------
+- parcourir le dossier et s'intéresser d'abord aux fichiers (sous-dossiers pour plus tard)
+- générer des tuples avec le nom du fichier et l'extension du fichier
+- à partir des noms des fichiers, générer des listes avec les informations des fichiers
+- créer un fichier csv, y inscrire l'en-tête, puis ajouter une ligne pour chaque fichier et y inscrire les listes avec les informations des fichiers
