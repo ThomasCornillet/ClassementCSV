@@ -11,3 +11,7 @@ Ordre des tâches
 - générer des tuples avec le nom du fichier et l'extension du fichier
 - à partir des noms des fichiers, générer des listes avec les informations des fichiers
 - créer un fichier csv, y inscrire l'en-tête, puis ajouter une ligne pour chaque fichier et y inscrire les listes avec les informations des fichiers
+
+À voir
+------
+- comment rendre éxécutable le script en lui passant le dossier cible en argument
